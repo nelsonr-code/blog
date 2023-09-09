@@ -1,0 +1,15 @@
+:root {
+	--bg: #fff567;
+	--textColor: #333;
+	--softBg: #f5f5f5;
+	--softTextColor: #666;
+}
+
+body {
+	color: var(--textColor);
+}
+
+.test {
+	background-color: var(--softBg);
+	color: var(--softTextColor);
+}

@@ -1,0 +1,11 @@
+/* tailwind */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* custom */
+@layer base {
+	html {
+		scroll-behavior: smooth;
+	}
+}
